@@ -1,0 +1,1 @@
+The goal of this project is to showcase basic HTML code and build a recipe website. The project will include links, images, ordered and unordered lists, and other elements/tags.
